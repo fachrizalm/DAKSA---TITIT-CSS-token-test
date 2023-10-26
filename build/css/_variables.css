@@ -1,0 +1,84 @@
+/**
+ * Do not edit directly
+ * Generated on Thu, 26 Oct 2023 09:43:53 GMT
+ */
+
+:root {
+  --sd-global-neutral-50: #f0f1f4;
+  --sd-global-neutral-100: #e1e3e8;
+  --sd-global-neutral-200: #c2c7d2;
+  --sd-global-neutral-300: #a4abbb;
+  --sd-global-neutral-500: #67738e;
+  --sd-global-neutral-600: #525c72;
+  --sd-global-neutral-700: #3e4555;
+  --sd-global-neutral-800: #292e39;
+  --sd-global-neutral-850: #1f232b;
+  --sd-global-neutral-darkslate: #292f3d;
+  --sd-global-neutral-whitecoral: #f5f9ff;
+  --sd-global-neutral-purewhite: #ffffff;
+  --sd-global-primary-deep-purple-50: #efeff5;
+  --sd-global-primary-deep-purple-100: #dee0eb;
+  --sd-global-primary-deep-purple-200: #bec1d6;
+  --sd-global-primary-deep-purple-300: #9da1c2;
+  --sd-global-primary-deep-purple-500: #5c6399;
+  --sd-global-primary-deep-purple-600: #4a4f7a;
+  --sd-global-primary-deep-purple-700: #373b5c;
+  --sd-global-primary-deep-purple-800: #25283d;
+  --sd-global-primary-deep-purple-850: #1c1e2e;
+  --sd-global-primary-blue-sky-50: #e8f4fc;
+  --sd-global-primary-blue-sky-100: #d0e8f9;
+  --sd-global-primary-blue-sky-200: #a1d2f2;
+  --sd-global-primary-blue-sky-300: #73bbec;
+  --sd-global-primary-blue-sky-500: #158edf;
+  --sd-global-primary-blue-sky-600: #1172b2;
+  --sd-global-primary-blue-sky-700: #0d5586;
+  --sd-global-primary-blue-sky-800: #083959;
+  --sd-global-primary-blue-sky-850: #062b43;
+  --sd-global-primary-cyan-50: #e9f9f9;
+  --sd-global-primary-cyan-100: #d2f3f4;
+  --sd-global-primary-cyan-200: #a5e7e9;
+  --sd-global-primary-cyan-300: #79dcdd;
+  --sd-global-primary-cyan-500: #1fc4c7;
+  --sd-global-primary-cyan-600: #199d9f;
+  --sd-global-primary-cyan-700: #137677;
+  --sd-global-primary-cyan-800: #0c4e50;
+  --sd-global-primary-cyan-850: #093b3c;
+  --sd-global-primary-button-active: linear-gradient(90deg, #1fc4c7 0%, #168edf 100%);
+  --sd-global-complementary-green-grass-50: #f4faf2;
+  --sd-global-complementary-green-grass-100: #eaf4e5;
+  --sd-global-complementary-green-grass-200: #d4eacb;
+  --sd-global-complementary-green-grass-300: #bfdfb1;
+  --sd-global-complementary-green-grass-500: #94ca7d;
+  --sd-global-complementary-green-grass-600: #79a666;
+  --sd-global-complementary-green-grass-700: #5e824f;
+  --sd-global-complementary-green-grass-800: #435e37;
+  --sd-global-complementary-green-grass-850: #364c2c;
+  --sd-global-complementary-sunset-50: #fff7ec;
+  --sd-global-complementary-sunset-100: #feefd9;
+  --sd-global-complementary-sunset-200: #fedfb3;
+  --sd-global-complementary-sunset-300: #fdce8c;
+  --sd-global-complementary-sunset-500: #fcae40;
+  --sd-global-complementary-sunset-600: #ce8e33;
+  --sd-global-complementary-sunset-700: #9f6d26;
+  --sd-global-complementary-sunset-800: #714d1a;
+  --sd-global-complementary-sunset-850: #5a3d13;
+  --sd-global-complementary-orange-50: #fdefe9;
+  --sd-global-complementary-orange-100: #fcdfd2;
+  --sd-global-complementary-orange-200: #f9bea5;
+  --sd-global-complementary-orange-300: #f59e79;
+  --sd-global-complementary-orange-500: #ef5d1f;
+  --sd-global-complementary-orange-600: #bf4a19;
+  --sd-global-complementary-orange-700: #8f3813;
+  --sd-global-complementary-orange-800: #60250c;
+  --sd-global-complementary-orange-850: #481c09;
+  --sd-global-complementary-paradise-pink-50: #fcebf0;
+  --sd-global-complementary-paradise-pink-100: #fad7e0;
+  --sd-global-complementary-paradise-pink-200: #f5afc2;
+  --sd-global-complementary-paradise-pink-300: #ef88a3;
+  --sd-global-complementary-paradise-pink-500: #e53866;
+  --sd-global-complementary-paradise-pink-600: #b72d52;
+  --sd-global-complementary-paradise-pink-700: #89223d;
+  --sd-global-complementary-paradise-pink-800: #5c1629;
+  --sd-global-complementary-paradise-pink-850: #45111f;
+  --sd-global-sm: 4;
+}
